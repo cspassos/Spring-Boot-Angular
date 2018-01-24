@@ -1,4 +1,4 @@
-package br.com.cspassos.algamoney.token;
+package br.com.cspassos.algamoney.api.token;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
